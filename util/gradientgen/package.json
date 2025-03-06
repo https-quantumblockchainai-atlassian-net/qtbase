@@ -8,6 +8,6 @@
     "mathjs": "^4.2.2",
     "parse-color": "^1.0.0",
     "postcss-minify-gradients": "^1.0.5",
-    "postcss-value-parser": "^3.3.0"
+    "postcss-value-parser": "^4.2.0"
   }
 }
